@@ -6,7 +6,7 @@
 
 OpenSpeedy 的 Python 绑定库 —— 将 [OpenSpeedy](https://github.com/game1024/OpenSpeedy) 游戏变速器的核心加速功能封装为纯 Python 第三方库。通过向目标 Windows 进程注入 speedpatch DLL 并 Hook 时间相关 API，实现进程时间的加速与减速控制。
 
-**仅限 Windows。** 使用。
+*仅限* Windows 平台使用。
 
 ---
 
